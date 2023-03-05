@@ -1,0 +1,4 @@
+this is the first entry to the 
+code editor in odin project after 
+a week of learning how to setup 
+the coding environment.
